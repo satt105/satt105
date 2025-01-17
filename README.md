@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile !
 
-I'm a student in computer science and networks, based in Toulouse. I'm a young developer specializing in software and the web, with skills in server administration and cybersecurity.
+I'm an IT technician based in the Haute-Garonne region of France, with a passion for technical problem-solving, network and systems administration. Although I'm particularly proficient in Windows environments, I'm also a firm believer in Linux. I'm lucky enough to combine my job with my passion on a daily basis... and sometimes I dream that my network cables will magically self-detort!
 
 <p>
 <img alt="">
