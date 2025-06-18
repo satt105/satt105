@@ -1,33 +1,29 @@
-# Hello there, I'm Thomas Bouret  👋
+# Thomas Bouret — Technicien Réseau & Système
 
-Welcome to my GitHub profile !
+Bienvenue sur mon GitHub.
 
-I'm an IT technician based in the Haute-Garonne region of France, with a passion for technical problem-solving, network and systems administration. Although I'm particularly proficient in Windows environments, I'm also a firm believer in Linux. I'm lucky enough to combine my job with my passion on a daily basis...
+Basé en **Haute-Garonne (France)**, je consacre mes forces à la **gestion des infrastructures réseau et système**, où rigueur, autonomie et passion guident chacun de mes pas.
+
+🛡️ Défenseur du **logiciel libre** et de l’**entraide numérique**, je manie aussi bien **Linux**, pilier de l’indépendance logicielle, que **Windows**, bastion incontournable de l’entreprise.
+
+🔧 L’informatique est plus qu’un métier : c’est une **discipline quotidienne** que je cultive au sein de mon **homelab**.
+
+🌱 Hors du cadre professionnel, j'ai l'honneur d’être **responsable chez les Éclaireurs de France**, transmettant connaissance, autonomie et solidarité aux nouvelles générations.
+
+---
+
+## 🔧 Stack technique
 
 <p>
-<img alt="">
-<img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" height=25/>
-<img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" height=25 />
-<img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" height=25/>
-<img alt="github" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" height=25/>
-<img alt="VScode" src="https://img.shields.io/badge/-VScode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" height=25/>
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" height=25/>
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" height=25/>
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" height=25/>
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" height=25/>
+  <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" height=25/>
 </p>
 
-<p>
-<a href="www.linkedin.com/in/thomas-bouret"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
-</p>
+---
 
-## About me
-| - 👷🏻 Students<br>- 👨‍💻 Dev<br>- 🤝 Open source<br>- 🤓 Geek | ![Image](https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif) |
-|---|---|
+## 📡 Contact
 
-
-## GitHub stats
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=satt105&theme=dark&mode=weekly)](https://git.io/streak-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=satt105&show_icons=true&theme=dracula)
-</div>
-
-### Top languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=satt105&show_icons=true&theme=dracula)](https://github.com/satt105/github-readme-stats)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thomas-bouret)
