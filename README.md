@@ -1,29 +1,70 @@
-# Thomas Bouret — Technicien Réseau & Système
+﻿# Thomas Bouret — Systems & Network Technician
 
-Bienvenue sur mon GitHub.
+Systems engineer passionate about **infrastructure**, **automation**, and **open-source technologies**. Building secure, scalable environments across Linux and Windows ecosystems.
 
-Basé en **Haute-Garonne (France)**, je consacre mes forces à la **gestion des infrastructures réseau et système**, où rigueur, autonomie et passion guident chacun de mes pas.
-
-🛡️ Défenseur du **logiciel libre** et de l’**entraide numérique**, je manie aussi bien **Linux**, pilier de l’indépendance logicielle, que **Windows**, bastion incontournable de l’entreprise.
-
-🔧 L’informatique est plus qu’un métier : c’est une **discipline quotidienne** que je cultive au sein de mon **homelab**.
-
-🌱 Hors du cadre professionnel, j'ai l'honneur d’être **responsable chez les Éclaireurs de France**, transmettant connaissance, autonomie et solidarité aux nouvelles générations.
+🛡️ **Open-source advocate** | 🔧 **Infrastructure-as-Code** | 🏠 **Homelab enthusiast**
 
 ---
 
-## 🔧 Stack technique
+## 🛠️ Tech Stack
 
-<p>
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" height=25/>
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" height=25/>
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" height=25/>
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" height=25/>
-  <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" height=25/>
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D4?style=flat-square&logo=windows&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Proxmox](https://img.shields.io/badge/Proxmox-E47911?style=flat-square&logo=proxmox&logoColor=white)
 
 ---
 
-## 📡 Contact
+## 🎯 Expertise
+
+## Systems & Infrastructure
+
+- Windows Server, Active Directory, Entra ID, GPO
+- Linux system administration and hardening
+- VMware ESXi, NetApp, Proxmox hypervisors
+- DHCP, DNS, TCP/IP networking
+
+## Network & Security
+
+- VLAN design and switching
+- Firewall configuration and management
+- Network diagnostics and troubleshooting
+- Microsoft 365 administration (Exchange Online, SharePoint)
+
+## Automation & Scripting
+
+- PowerShell scripting for Windows infrastructure
+- Python automation and tooling
+- Bash scripting for Linux environments
+- Infrastructure monitoring
+
+## Cloud & Virtualization
+
+- Entra ID identity management
+- Cloud service deployment and administration
+- Virtual infrastructure optimization
+- Backup and disaster recovery strategies
+
+---
+
+## 🚀 Homelab & Projects
+
+## Self-hosted Infrastructure
+
+- Proxmox hypervisor setup and management
+- Reverse proxy and load balancing (Nginx)
+- SSL/TLS certificate automation
+- Containerized service deployment
+- Automated backup solutions
+- DNS and network services
+
+---
+
+## 📡 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thomas-bouret)
+[![Website](https://img.shields.io/badge/Website-bouret--serveur.fr-blue?style=for-the-badge)](https://bouret-serveur.fr)
